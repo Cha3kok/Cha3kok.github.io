@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cha3kok.github.io/sitemap.xml
